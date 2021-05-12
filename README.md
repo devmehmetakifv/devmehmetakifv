@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mehmet Akif
+### Wassup! 👋 It's me, Mehmet Akif
 
 ---------------
 ✨About Me✨
@@ -12,7 +12,7 @@
 ⚡ Fun fact: There is no problem so bad that you can't make it worse.
 
 ---------------
-🛠 TechStack 
+🛠 TechStack 🛠
 ---------------
 
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -28,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/-Java_Script-141a20?style=flat&logo=JavaScript)&nbsp;
 
 ------------
-📫 Contact Me
+📫 Contact Me 📫
 ------------
 
 [![gmail](https://img.shields.io/badge/-info@mehmetakifvardar.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:info@mehmetakifvardar.com)
