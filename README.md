@@ -26,6 +26,8 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-141a20?style=flat&logo=wordpress)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Java_Script-141a20?style=flat&logo=JavaScript)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-141a20?style=flat&logo=Debian)&nbsp;
+![Plesk](https://img.shields.io/badge/-Plesk-141a20?style=flat&logo=Plesk)&nbsp;
 
 ------------
 📫 Contact Me 📫
