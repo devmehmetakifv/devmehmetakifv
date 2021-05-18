@@ -33,6 +33,8 @@
 📫 Contact Me 📫
 ------------
 
+You can contact me via my personal mail address. I'll probably turn back in 2 working days.
+
 [![gmail](https://img.shields.io/badge/-info@mehmetakifvardar.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:info@mehmetakifvardar.com)
 <!--
 **devmehmetakifv/devmehmetakifv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
