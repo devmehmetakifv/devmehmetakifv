@@ -28,6 +28,8 @@
 ![JavaScript](https://img.shields.io/badge/-Java_Script-141a20?style=flat&logo=JavaScript)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-141a20?style=flat&logo=Debian)&nbsp;
 ![Plesk](https://img.shields.io/badge/-Plesk-141a20?style=flat&logo=Plesk)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=MySQL)&nbsp;
+
 
 ------------
 📫 Contact Me 📫
