@@ -3,9 +3,9 @@
 ---------------
 ✨About Me✨
 ---------------
-🌱 I’m currently learning how to develop GUIs and browser automation techniques using Python.
+🌱 I’m currently learning game developing in PyGame using Python.
 
-🔭 I’m currently working on a WordPress Automatic Content Poster project, that is currently %60 done.
+🔭 I’m currently working on nothing, just studying.
 
 ✨ I'm into science, music, cosmos...
 
