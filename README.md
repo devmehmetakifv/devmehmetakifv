@@ -29,6 +29,7 @@
 ![Debian](https://img.shields.io/badge/-Debian-141a20?style=flat&logo=Debian)&nbsp;
 ![Plesk](https://img.shields.io/badge/-Plesk-141a20?style=flat&logo=Plesk)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=MySQL)&nbsp;
+![PyGame](https://img.shields.io/badge/-PyGame-141a20?style=flat&logo=PyGame&logoColor=FFA518)&nbsp;
 
 
 ------------
