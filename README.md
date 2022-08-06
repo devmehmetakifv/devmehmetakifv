@@ -3,9 +3,9 @@
 ---------------
 ✨About Me✨
 ---------------
-🌱 I’m currently learning game developing in PyGame using Python.
+🌱 I’m currently working on coding responsive websites using pure HTML & CSS.
 
-🔭 I’m currently working on nothing, just studying.
+🔭 Planning to start learning JS in 1 week.
 
 ✨ I'm into science, music, cosmos...
 
@@ -37,7 +37,7 @@
 
 You can contact me via my personal mail address. I'll probably turn back in 2 working days.
 
-[![gmail](https://img.shields.io/badge/-info@mehmetakifvardar.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:info@mehmetakifvardar.com)
+[![gmail](https://img.shields.io/badge/-go4webb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:go4webb@gmail.com)
 <!--
 **devmehmetakifv/devmehmetakifv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
