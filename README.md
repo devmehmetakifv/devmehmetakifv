@@ -29,6 +29,8 @@
 ![Debian](https://img.shields.io/badge/-Debian-141a20?style=flat&logo=Debian)&nbsp;
 ![Plesk](https://img.shields.io/badge/-Plesk-141a20?style=flat&logo=Plesk)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=MySQL)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-141a20?style=flat&logo=Unity)&nbsp;
+![C#](https://img.shields.io/badge/-C-sharp-141a20?style=flat&logo=CSharp)&nbsp;
 
 
 ------------
