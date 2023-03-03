@@ -3,9 +3,9 @@
 ---------------
 ✨About Me✨
 ---------------
-🌱 Currently working on Quantum Computing.
+🌱 Currently working on developing a chat system using C#.
 
-🔭 Learning C, Python actively.
+🔭 Learning C, C# actively.
 
 ✨ I'm into science, music, cosmos...
 
