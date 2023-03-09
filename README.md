@@ -30,7 +30,7 @@
 ![Plesk](https://img.shields.io/badge/-Plesk-141a20?style=flat&logo=Plesk)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=MySQL)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-141a20?style=flat&logo=Unity)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-141a20?style=flat&logo=csharp)&nbsp;
+![C#](https://img.shields.io/badge/-C#-141a20?style=flat&logo=csharp)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus)&nbsp;
 
 
