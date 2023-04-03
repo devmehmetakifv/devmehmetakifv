@@ -5,7 +5,7 @@
 ---------------
 🌱 Currently working on developing a chat system using C#.
 
-🔭 Learning C, C# actively.
+🔭 Learning C++, C# actively.
 
 ✨ I'm into science, music, cosmos...
 
