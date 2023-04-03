@@ -3,7 +3,7 @@
 ---------------
 ✨About Me✨
 ---------------
-🌱 Currently working on developing a chat system using C#.
+🌱 Currently working on improving my C# skills as much as I can.
 
 🔭 Learning C++, C# actively.
 
