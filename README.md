@@ -40,7 +40,7 @@
 
 You can contact me via my personal mail address. I'll probably turn back in 2 working days.
 
-[![outlook](https://img.shields.io/badge/-mehmet.vardar@istun.edu.tr-D14836?style=flat&logo=Outlook&logoColor=white)](mailto:mehmet.vardar@istun.edu.tr)
+[![outlook](https://img.shields.io/badge/-contact@mehmetakifvardar.com-D14836?style=flat&logo=Outlook&logoColor=white)](mailto:contact@mehmetakifvardar.com)
 <!--
 **devmehmetakifv/devmehmetakifv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
