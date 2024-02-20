@@ -1,11 +1,11 @@
-### Wassup! 👋 It's me, Mehmet Akif
+### Hey! 👋 It's me, Mehmet Akif
 
 ---------------
 ✨About Me✨
 ---------------
-🌱 Currently working on improving my C# skills as much as I can.
+🌱 I'm a second year software engineering student with a keen interest in backend development and cybersecurity. I compete in online CTF challenges to enhance my penetration testing skills. I share my projects here on my GitHub!
 
-🔭 Learning C++, C# actively.
+🔭 I have hands-on experiences with C# & ASP.NET Core. I'm currently learning Python and Ruby for exploit & malware programming.
 
 ✨ I'm into science, music, cosmos...
 
@@ -40,7 +40,7 @@
 
 You can contact me via my personal mail address. I'll probably turn back in 2 working days.
 
-[![outlook](https://img.shields.io/badge/-contact@mehmetakifvardar.com-D14836?style=flat&logo=Outlook&logoColor=white)](mailto:contact@mehmetakifvardar.com)
+[![outlook](https://img.shields.io/badge/-iletisim@mehmetakifvardar.com-D14836?style=flat&logo=Outlook&logoColor=white)](mailto:contact@mehmetakifvardar.com)
 <!--
 **devmehmetakifv/devmehmetakifv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
