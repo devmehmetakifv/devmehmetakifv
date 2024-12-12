@@ -5,7 +5,7 @@
 ---------------
 🌱 I'm a third year software engineering student with a keen interest in backend development and cybersecurity. I compete in online CTF challenges to enhance my penetration testing skills. I share my projects here on my GitHub!
 
-🔭 I have hands-on experiences with C# & ASP.NET Core. I'm currently learning Python for exploit & malware programming.
+🔭 I have hands-on experiences with C# & ASP.NET Core. I'm currently working on my Discord automation software.
 
 ✨ I'm into science, music, cosmos...
 
